@@ -1,0 +1,8 @@
+numpy
+torch
+transformers
+tqdm
+matplotlib
+psutil
+numba
+pybind11
